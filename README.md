@@ -14,12 +14,13 @@ I am a Data Architect, Data Engineer and an aspiring [Data Scientist](https://gi
 
 <code><img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-neo4j-a-graph-database-management-system-developed-logo-color-tal-revivo.png"></code>
 <code><img height="50" src="https://img.icons8.com/color/48/000000/graphql.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/50/000000/gremlin.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://img.icons8.com/fluency/50/000000/mysql-logo.png"></code>
 <code><img height="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
 <code><img height="50" src="https://img.icons8.com/color/48/000000/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
-<code><img height="50" src="https://img.icons8.com/color/50/000000/gremlin.png"></code>
+
 
 <br />
 
