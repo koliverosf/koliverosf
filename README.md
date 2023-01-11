@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/koliverosf/koliverosf/blob/main/3Ayb.gif?raw=true" width="300" height="320" />
  
-I am a Data Architect, Data Engineer and an aspiring [Data Scientist](https://github.com/koliverosf). Right now I am studying two Master's Degree of Artificial Intelligence and Data Science. In this profile I will upload all my Artificial Intelligence and Data Science bites. 
+I am a Data Engineer and an aspiring [Knowledge Engineer](https://github.com/koliverosf). Right now I am studying a Master's Degree of Artificial Intelligence. In this profile I will upload all my Artificial Intelligence and Data Science bites. 
 
 <br />
 
