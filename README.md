@@ -21,8 +21,10 @@ I am a Data Engineer and an aspiring [Knowledge Engineer](https://github.com/kol
 <code><img height="50" src="https://img.icons8.com/color/48/000000/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
 
+**Certifications**
 
-<br />
+[<code><img height="110" src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></code>](https://www.credly.com/earner/earned/badge/9e6c0f06-08cc-46b2-9457-c5a147bcaa40)
+
 
 Thanks for visiting and don't hesitate to [connect](https://www.linkedin.com/in/karen-oliveros-felez-757bba121/) with me!
 
