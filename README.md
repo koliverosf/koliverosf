@@ -29,6 +29,8 @@ I am a [Knowledge Engineer](https://github.com/koliverosf) who loves AI and NLP.
 **Certifications**
 
 [<code><img height="110" src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></code>](https://www.credly.com/earner/earned/badge/9e6c0f06-08cc-46b2-9457-c5a147bcaa40)
+[<code><img height="110" src="https://cdn.graphacademy.neo4j.com/assets/img/courses/badges/gds-certification.svg"></code>](https://graphacademy.neo4j.com/u/9f145100-e7c6-44ee-b480-a84f00ea380a/gds-certification/)
+[<code><img height="110" src="https://cdn.graphacademy.neo4j.com/assets/img/courses/badges/neo4j-certification.svg"></code>](https://graphacademy.neo4j.com/certificates/f3180b7c36e964a954fd41267d6649b5aacdbeb16be75c14d931194e1240d854.pdf)
 
 
 Thanks for visiting and don't hesitate to [connect](https://www.linkedin.com/in/karen-oliveros-felez-757bba121/) with me!
