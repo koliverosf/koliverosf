@@ -22,7 +22,6 @@ I am a [Knowledge Engineer](https://github.com/koliverosf) who loves AI and NLP.
 <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Rdf_logo.svg"></code>
 <code><img height="50" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/protege-icon.png"></code>
-
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Marklogic-logo.PNG"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"></code>
 
